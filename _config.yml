@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sean's page"
-description              : 
+description              : Night Night.
 repository               : "SeanZh30.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "CS @ UIUC"
   location         : "Champaign, IL"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1DPuL94AAAAJ&hl=en"
   email            : "sz54@illinois.edu"
