@@ -32,25 +32,27 @@ Greatings! I’m Shiyuan(Sean) Zhang, currently a CS major master’s student at
 
 (\*: equal contribution)
 
+Pre-prints
+- [Computational Copyright: Towards A Royalty Model for AI Music Generation Platforms](https://arxiv.org/pdf/2312.06646)\
+Junwei Deng, <strong>Shiyuan Zhang</strong>, Jiaqi Ma\
+<span style="color:#82B0D2">**ICML**</span> 2024 GenLaw Workshop\
+[[Arxiv]](https://arxiv.org/abs/2312.06646) [[pdf]](https://arxiv.org/pdf/2312.06646)
+<br>
+
+Peer-reviewed
+
 - [dattri: A Library for Efficient Data Attribution](https://arxiv.org/pdf/2410.04555)\
 Junwei Deng *, Ting Wei Li *, <strong>Shiyuan Zhang</strong>, Shixuan Liu, Yijun Pan, \
 Hao Huang, Xinhe Wang, Pingbang Hu, Xingjian Zhang, Jiaqi W. Ma\
-<span style="color:purple">**NeurIPS**</span> 2024 <span style="color:grey">**spotlight**</span>\
+<span style="color:#82B0D2">**NeurIPS**</span> 2024 <span style="color:#FA7F6F">**spotlight**</span>\
 [[Arxiv]](https://arxiv.org/abs/2410.04555) [[pdf]](https://arxiv.org/pdf/2410.04555) [[Code]](https://github.com/TRAIS-Lab/dattri) [[Page]](https://trais-lab.github.io/dattri)
 <br>
 <br>
 
 - [Nuanced Multi-class Detection of Machine-Generated Scientific Text]()\
 <strong>Shiyuan Zhang</strong>, Yubin Ge, Xiaofeng Liu \
-<span style="color:purple">**PACLIC**</span> 38th Pacific Asia Conference on Language, Information and Computation\
+<span style="color:#82B0D2">**PACLIC**</span> 38th Pacific Asia Conference on Language, Information and Computation\
 [[Code]](https://github.com/SeanZh30/ScientificText_Detection)
-<br>
-<br>
-
-- [Computational Copyright: Towards A Royalty Model for AI Music Generation Platforms](https://arxiv.org/pdf/2312.06646)\
-Junwei Deng, <strong>Shiyuan Zhang</strong>, Jiaqi Ma\
-<span style="color:purple">**ICML**</span> 2024 GenLaw Workshop\
-[[Arxiv]](https://arxiv.org/abs/2312.06646) [[pdf]](https://arxiv.org/pdf/2312.06646)
 <br>
 <br>
 
