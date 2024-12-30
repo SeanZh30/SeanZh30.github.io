@@ -23,7 +23,7 @@ Greatings! I’m Shiyuan(Sean) Zhang, currently a CS major master’s student at
 
 - *2024.10*: &nbsp;🎉🎉 One paper accepted by **PACLIC 2024**! 
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by **NeurIPS 2024 D&B Track (Spotlight)**!
-- *2024.07*: &nbsp;🎉🎉 One paper accepted by **ICML 2024 GenLaw Workshop**!
+- *2024.07*: &nbsp;🎉🎉 One paper presented at **ICML 2024 GenLaw Workshop**!
 - *2023.09*: &nbsp;🏫🏫 Start my master program at UIUC!
 - *2023.05*: &nbsp;📖📖 Proudly graduate from UIUC with Highest Distinction!
 
@@ -44,7 +44,7 @@ Peer-reviewed
 - [dattri: A Library for Efficient Data Attribution](https://arxiv.org/pdf/2410.04555)\
 Junwei Deng *, Ting Wei Li *, <strong>Shiyuan Zhang</strong>, Shixuan Liu, Yijun Pan, \
 Hao Huang, Xinhe Wang, Pingbang Hu, Xingjian Zhang, Jiaqi W. Ma\
-<span style="color:Purple">**NeurIPS**</span> 2024 <span style="color:#FA7F6F">**spotlight**</span>\
+<span style="color:Purple">**NeurIPS**</span> 2024 <span>**spotlight**</span>\
 [[Arxiv]](https://arxiv.org/abs/2410.04555) [[pdf]](https://arxiv.org/pdf/2410.04555) [[Code]](https://github.com/TRAIS-Lab/dattri) [[Page]](https://trais-lab.github.io/dattri)
 <br>
 <br>
