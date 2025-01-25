@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Greatings! I’m Shiyuan(Sean) Zhang, currently a CS major master’s student at University of Illinois Urbana-Champaign (UIUC). My research interest lies in data-centric machine learning, trustworthy NLP, and vision langauge models. Prior to this, I completed my Bachelor’s degree also at the UIUC. In life, I have the perfect companionship of this white rag called <a href="../images/lulu.jpg">Lulu</a>.
+Greatings! I'm Shiyuan(Sean) Zhang, currently a CS major master's student at University of Illinois Urbana-Champaign (UIUC). My research interest lies in data-centric machine learning, trustworthy NLP, and vision langauge models. I am now fortunate to working closely with Prof. Jiaqi W Ma<a href="https://jiaqima.github.io/">(homepage)</a>. Prior to this, I completed my Bachelor's degree also at the UIUC. In life, I have the perfect companionship of this white rag called <a href="../images/lulu.jpg">Lulu</a>.
 
 # 🔥 News
 
@@ -34,24 +34,23 @@ Greatings! I’m Shiyuan(Sean) Zhang, currently a CS major master’s student at
 
 Pre-prints
 - [Computational Copyright: Towards A Royalty Model for AI Music Generation Platforms](https://arxiv.org/pdf/2312.06646)\
-Junwei Deng, <strong>Shiyuan Zhang</strong>, Jiaqi Ma\
-<span style="color:Purple">**ICML**</span> 2024 GenLaw Workshop\
+Junwei Deng, <span style="color:#2E86C1">Shiyuan Zhang</span>, Jiaqi Ma\
+<span style="color:#8E44AD">**ICML**</span> 2024 GenLaw Workshop\
 [[Arxiv]](https://arxiv.org/abs/2312.06646) [[pdf]](https://arxiv.org/pdf/2312.06646)
 <br>
 
-Peer-reviewed
+<span style="color:#7F8C8D">Peer-reviewed</span>
 
 - [dattri: A Library for Efficient Data Attribution](https://arxiv.org/pdf/2410.04555)\
-Junwei Deng *, Ting Wei Li *, <strong>Shiyuan Zhang</strong>, Shixuan Liu, Yijun Pan, \
-Hao Huang, Xinhe Wang, Pingbang Hu, Xingjian Zhang, Jiaqi W. Ma\
-<span style="color:Purple">**NeurIPS**</span> 2024 <span>**spotlight**</span>\
+Junwei Deng\*, Ting Wei Li\*, <span style="color:#2E86C1">Shiyuan Zhang</span>, Shixuan Liu, Yijun Pan, Hao Huang, Xinhe Wang, Pingbang Hu, Xingjian Zhang, Jiaqi W. Ma\
+<span style="color:#8E44AD">**NeurIPS**</span> 2024 <span style="color:#E67E22">**spotlight**</span>\
 [[Arxiv]](https://arxiv.org/abs/2410.04555) [[pdf]](https://arxiv.org/pdf/2410.04555) [[Code]](https://github.com/TRAIS-Lab/dattri) [[Page]](https://trais-lab.github.io/dattri)
 <br>
 <br>
 
 - [Nuanced Multi-class Detection of Machine-Generated Scientific Text]()\
-<strong>Shiyuan Zhang</strong>, Yubin Ge, Xiaofeng Liu \
-<span style="color:Purple">**PACLIC**</span> 38th Pacific Asia Conference on Language, Information and Computation\
+<span style="color:#2E86C1">Shiyuan Zhang</span>, Yubin Ge, Xiaofeng Liu\
+<span style="color:#8E44AD">**PACLIC**</span> 38th Pacific Asia Conference on Language, Information and Computation\
 [[Code]](https://github.com/SeanZh30/ScientificText_Detection)
 <br>
 <br>
