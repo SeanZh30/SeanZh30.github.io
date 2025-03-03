@@ -42,7 +42,7 @@ Junwei Deng, <span >Shiyuan Zhang</span>, Jiaqi Ma\
 
 - [dattri: A Library for Efficient Data Attribution](https://arxiv.org/pdf/2410.04555)\
 Junwei Deng\*, Ting Wei Li\*, <span >Shiyuan Zhang</span>, Shixuan Liu, Yijun Pan, Hao Huang, Xinhe Wang, Pingbang Hu, Xingjian Zhang, Jiaqi W. Ma\
-<span style="color:#8E44AD">**NeurIPS**</span> 2024 <span style="color:#E67E22">**spotlight**</span>\
+<span style="color:#8E44AD">**NeurIPS**</span> 2024 <span>**spotlight**</span>\
 [[Arxiv]](https://arxiv.org/abs/2410.04555) [[pdf]](https://arxiv.org/pdf/2410.04555) [[Code]](https://github.com/TRAIS-Lab/dattri) [[Page]](https://trais-lab.github.io/dattri)
 <br>
 <br>
