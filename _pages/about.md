@@ -21,7 +21,6 @@ Greatings! I'm Shiyuan(Sean) Zhang, currently a CS major master's student at Uni
 
 # 🔥 News
 
-- *2024.10*: &nbsp;🎉🎉 One paper accepted by **PACLIC 2024**! 
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by **NeurIPS 2024 D&B Track (Spotlight)**!
 - *2024.07*: &nbsp;🎉🎉 One paper presented at **ICML 2024 GenLaw Workshop**!
 - *2023.09*: &nbsp;🏫🏫 Start my master program at UIUC!
@@ -34,7 +33,7 @@ Greatings! I'm Shiyuan(Sean) Zhang, currently a CS major master's student at Uni
 
 Pre-prints
 - [Computational Copyright: Towards A Royalty Model for AI Music Generation Platforms](https://arxiv.org/pdf/2312.06646)\
-Junwei Deng, <span style="color:#2E86C1">Shiyuan Zhang</span>, Jiaqi Ma\
+Junwei Deng, <span >Shiyuan Zhang</span>, Jiaqi Ma\
 <span style="color:#8E44AD">**ICML**</span> 2024 GenLaw Workshop\
 [[Arxiv]](https://arxiv.org/abs/2312.06646) [[pdf]](https://arxiv.org/pdf/2312.06646)
 <br>
@@ -42,14 +41,14 @@ Junwei Deng, <span style="color:#2E86C1">Shiyuan Zhang</span>, Jiaqi Ma\
 <span style="color:#7F8C8D">Peer-reviewed</span>
 
 - [dattri: A Library for Efficient Data Attribution](https://arxiv.org/pdf/2410.04555)\
-Junwei Deng\*, Ting Wei Li\*, <span style="color:#2E86C1">Shiyuan Zhang</span>, Shixuan Liu, Yijun Pan, Hao Huang, Xinhe Wang, Pingbang Hu, Xingjian Zhang, Jiaqi W. Ma\
+Junwei Deng\*, Ting Wei Li\*, <span >Shiyuan Zhang</span>, Shixuan Liu, Yijun Pan, Hao Huang, Xinhe Wang, Pingbang Hu, Xingjian Zhang, Jiaqi W. Ma\
 <span style="color:#8E44AD">**NeurIPS**</span> 2024 <span style="color:#E67E22">**spotlight**</span>\
 [[Arxiv]](https://arxiv.org/abs/2410.04555) [[pdf]](https://arxiv.org/pdf/2410.04555) [[Code]](https://github.com/TRAIS-Lab/dattri) [[Page]](https://trais-lab.github.io/dattri)
 <br>
 <br>
 
 - [Nuanced Multi-class Detection of Machine-Generated Scientific Text]()\
-<span style="color:#2E86C1">Shiyuan Zhang</span>, Yubin Ge, Xiaofeng Liu\
+<span >Shiyuan Zhang</span>, Yubin Ge, Xiaofeng Liu\
 <span style="color:#8E44AD">**PACLIC**</span> 38th Pacific Asia Conference on Language, Information and Computation\
 [[Code]](https://github.com/SeanZh30/ScientificText_Detection)
 <br>
